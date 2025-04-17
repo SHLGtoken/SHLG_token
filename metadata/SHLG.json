@@ -1,0 +1,11 @@
+{
+  "name": "Short&Long",
+  "symbol": "SHLG",
+  "decimals": 9,
+  "description": "Meme token for those who short and long — and meme through the chaos.",
+  "image": "https://raw.githubusercontent.com/SHLGtoken/SHLG_token/main/assets/mainnet/6f58Eqqe3fAodmAZ5At1sHNsmmFesovy2ULxUfrLezYt/logo.png",
+  "tags": ["memecoin", "SHLG", "Solana"],
+  "extensions": {
+    "twitter": "https://x.com/shortlongtoken"
+  }
+}
